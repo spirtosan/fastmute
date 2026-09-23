@@ -1,0 +1,14 @@
+# Build output (PyInstaller)
+*.exe
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local user settings
+quick_mixer_config.json
